@@ -90,19 +90,6 @@ body {
   line-height: 26px;
   font-family: "Product Sans", sans-serif;
   background: #000;
-}
-
-.wrapper {
-  min-height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-
-.container {
-  max-width: 1160px;
-  padding: 0 15px;
-  margin: 0 auto;
-  min-height: 100hv;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -117,7 +104,6 @@ body {
 /*------------------------------------*/ /*------------------------------------*/
 /*------------------------------------*/ /*------------------------------------*/
 .cube {
-  margin-top: 150px;
   position: relative;
   width: 300px;
   height: 300px;
